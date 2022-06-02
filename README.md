@@ -72,11 +72,23 @@ Se resuelve el sistema de ecuaciones en donde se encontrará los valores de cada
 
 #### MATERIALES
 
+![image](https://user-images.githubusercontent.com/105565683/171676375-ef3bce34-fd90-497d-bbd5-a045e63daa5d.png)
 
+![image](https://user-images.githubusercontent.com/105565683/171677248-f09de0e8-e95b-417c-a162-b76ff99316b0.png)
 
 #### PROCESO
 
+1.	Ubicamos las resistencias como se muestra en el esquema del circuito.
 
+![image](https://user-images.githubusercontent.com/105565683/171678227-c96927b5-9a2c-4c01-8fd4-a8c2ed497e5a.png)
+
+2.	Conectar las resistencias por medio de los cables de acuerdo con el esquema, que cumpla con el circuito mixto.
+
+![image](https://user-images.githubusercontent.com/105565683/171679087-ea674298-4c8f-4e65-b149-a7e00bbd9b84.png)
+
+3.	Conectamos las fuentes de voltaje C.D. (en caso de simulador), de acuerdo al esquema, en los polos positivo y negativo de las resistencias.
+
+![image](https://user-images.githubusercontent.com/105565683/171679208-83f1e2f6-e551-4cd2-983d-f6d8f70a1449.png)
 
 ### CALCULO DE LOS VOLTAJES Y CORRIENTES
 
