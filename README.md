@@ -126,11 +126,19 @@ Resolviendo el sistema de ecuaciones usando una calculadora online:
 
 Teniendo las resistencias y la corriente, calculamos el voltaje:
 
-![image](https://user-images.githubusercontent.com/105565683/171548577-473c3acb-f6ca-45b7-80b0-26da7884cb28.png)
+![image](https://user-images.githubusercontent.com/105565683/171683970-1760d77f-0f0a-4d28-a21d-18abedda3405.png)
 
 ## RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 ### MEDICIONES DE VOLTAJE Y CORRIENTE
+
+1. Medir el voltaje en cada elemento del circuito con el multímetro.
+
+![image](https://user-images.githubusercontent.com/105565683/171684059-e194f463-dd4d-4715-9da4-2b7f67f26849.png)
+
+2. Medir la corriente en cada elemento del circuito con el multímetro.
+
+![image](https://user-images.githubusercontent.com/105565683/171686424-05fb1942-6586-416c-b3f5-f3bd3e098442.png)
 
 ### RESULTADOS
 
