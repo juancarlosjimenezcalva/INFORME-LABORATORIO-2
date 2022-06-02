@@ -140,6 +140,10 @@ Teniendo las resistencias y la corriente, calculamos el voltaje:
 
 ![image](https://user-images.githubusercontent.com/105565683/171686424-05fb1942-6586-416c-b3f5-f3bd3e098442.png)
 
+3. Comparar los resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
+
+
 ### RESULTADOS
 
 ## VIDEO
