@@ -90,7 +90,37 @@ Se resuelve el sistema de ecuaciones en donde se encontrará los valores de cada
 
 ![image](https://user-images.githubusercontent.com/105565683/171679208-83f1e2f6-e551-4cd2-983d-f6d8f70a1449.png)
 
-### CALCULO DE LOS VOLTAJES Y CORRIENTES
+### CALCULO DE LOS VOLTAJES Y CORRIENTES (METODO DE MALLAS)
+
+![image](https://user-images.githubusercontent.com/105565683/172270012-14b8c6b3-5945-46b4-acde-11b61d9847cd.png)
+
+![image](https://user-images.githubusercontent.com/105565683/172270028-2782b620-68af-497b-8556-884a9b6e4861.png)
+
+![image](https://user-images.githubusercontent.com/105565683/172270051-bb021654-6ad8-4c05-9f63-e200ad239fc0.png)
+
+Sistema de ecuaciones:
+
+![image](https://user-images.githubusercontent.com/105565683/172270081-9afff4e3-935c-4106-a267-b4f6b0381840.png)
+
+Resolviendo el sistema de ecuaciones usando una calculadora online:
+
+![image](https://user-images.githubusercontent.com/105565683/172270104-086b944f-d2db-4d87-a3aa-76f06f16dd51.png)
+
+![image](https://user-images.githubusercontent.com/105565683/172270123-30d22dbd-05ae-4db0-b598-2e074419e703.png)
+
+Como las corrientes para la malla 2 y la malla 3, van en sentido apuesto a la corriente principal, por lo que cambiamos de signo en dichas mallas.
+
+![image](https://user-images.githubusercontent.com/105565683/172270150-bf2ee556-9ac4-453f-b754-5041f12b2238.png)
+
+![image](https://user-images.githubusercontent.com/105565683/172270164-b7597589-25d2-4986-9f9d-6b713d3bf4a9.png)
+
+![image](https://user-images.githubusercontent.com/105565683/172270176-bed09c2a-0f92-44bc-8571-c369165f9e78.png)
+
+![image](https://user-images.githubusercontent.com/105565683/172270203-0f34a628-dd5e-4186-afa4-967de49fd6cf.png)
+
+Para comprobar los valores de realizo los mismos calculos por medio del metodo de corrientes de rama.
+
+### CALCULO DE LOS VOLTAJES Y CORRIENTES (METODO DE CORRIENTES DE RAMA)
 
 ![image](https://user-images.githubusercontent.com/105565683/171548070-deec4c3b-bd98-4278-bc1f-3359c1bee2e8.png)
 
