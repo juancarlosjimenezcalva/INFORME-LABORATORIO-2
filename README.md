@@ -203,6 +203,7 @@ https://www.youtube.com/watch?v=rN3iQ0lrjxQ
 ## CONCLUSIONES
 
 •	Se utilizó un análisis y compresión adecuado del esquema del circuito eléctrico para su elaboración, por medio de los materiales adecuados respetando su trayectoria y polaridad con el fin de que cumpliera con lo solicitado
+
 •	Se determinó que gracias al análisis de mallas se puede obtener los valores de las corrientes de mallas por medio de un sistema de ecuaciones, siendo útil este método para un circuito eléctrico complejo.
 
 ## BIBLIOGRAFÍA
