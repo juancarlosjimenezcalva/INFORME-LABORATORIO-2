@@ -186,7 +186,7 @@ Teniendo las resistencias y la corriente, calculamos el voltaje:
 
 Para el circuito físico se utilizaron baterías y pilas para las fuentes de voltaje, siendo de 6 V y 9 V, por ende, existirá una ligera diferencia entre los resultados, también se tomarán en cuenta los resultados obtenidos en ambos circuitos del grupo.
 
-![image](https://user-images.githubusercontent.com/105565683/172274485-d6018ab8-ae0b-48d5-ba84-60d31b004886.png)
+![image](https://user-images.githubusercontent.com/105565683/172277232-6ae74a59-0a5a-49d7-9172-ca0a038a0718.png)
 
 ### RESULTADOS
 
