@@ -92,13 +92,15 @@ Se resuelve el sistema de ecuaciones en donde se encontrará los valores de cada
 
 ### CALCULO DE LOS VOLTAJES Y CORRIENTES (METODO DE MALLAS)
 
+### CALCULOS DE LAS MALLAS
+
 ![image](https://user-images.githubusercontent.com/105565683/172270012-14b8c6b3-5945-46b4-acde-11b61d9847cd.png)
 
 ![image](https://user-images.githubusercontent.com/105565683/172270028-2782b620-68af-497b-8556-884a9b6e4861.png)
 
 ![image](https://user-images.githubusercontent.com/105565683/172270051-bb021654-6ad8-4c05-9f63-e200ad239fc0.png)
 
-Sistema de ecuaciones:
+### SISTEMA DE ECUACIONES:
 
 ![image](https://user-images.githubusercontent.com/105565683/172270081-9afff4e3-935c-4106-a267-b4f6b0381840.png)
 
@@ -111,6 +113,8 @@ Resolviendo el sistema de ecuaciones usando una calculadora online:
 Como las corrientes para la malla 2 y la malla 3, van en sentido apuesto a la corriente principal, por lo que cambiamos de signo en dichas mallas.
 
 ![image](https://user-images.githubusercontent.com/105565683/172270150-bf2ee556-9ac4-453f-b754-5041f12b2238.png)
+
+### CALCULOS DE LOS NODOS
 
 ![image](https://user-images.githubusercontent.com/105565683/172270164-b7597589-25d2-4986-9f9d-6b713d3bf4a9.png)
 
