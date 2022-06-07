@@ -198,6 +198,8 @@ Respecto al margen de error, es debido a los diferentes valores usados en el cir
 
 ## VIDEO
 
+
+
 ## CONCLUSIONES
 
 •	Se utilizó un análisis y compresión adecuado del esquema del circuito eléctrico para su elaboración, por medio de los materiales adecuados respetando su trayectoria y polaridad con el fin de que cumpliera con lo solicitado
