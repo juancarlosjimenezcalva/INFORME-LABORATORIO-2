@@ -90,6 +90,14 @@ Se resuelve el sistema de ecuaciones en donde se encontrará los valores de cada
 
 ![image](https://user-images.githubusercontent.com/105565683/171679208-83f1e2f6-e551-4cd2-983d-f6d8f70a1449.png)
 
+#### CIRCUITO FISICO
+
+Siguiendo el mismo proceso, armamos el circuito físico:
+
+![45](https://user-images.githubusercontent.com/105565683/172270688-27b6db96-b8f1-44e0-bbd0-f818bdebd436.jpg)
+
+![46](https://user-images.githubusercontent.com/105565683/172270735-ba0b0e43-df6d-45e6-88a8-9645b5030b65.jpg)
+
 ### CALCULO DE LOS VOLTAJES Y CORRIENTES (METODO DE MALLAS)
 
 ### CALCULOS DE LAS MALLAS
